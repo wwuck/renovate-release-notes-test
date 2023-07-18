@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "renovate-changelog-url-test"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "renovate_changelog_url_test"}]
+
+[tool.poetry.dependencies]
+python = "3.11"
+SQLAlchemy = "2.0.18"
+click = "8.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
