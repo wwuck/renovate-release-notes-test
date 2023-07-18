@@ -12,7 +12,8 @@ python = "~3.11"
 SQLAlchemy = "2.0.18"
 click = "8.1.4"
 cython = "0.29.36"
-
+pydantic = "2.0.2"
+google-cloud-secret-manager = "2.16.1"
 
 [build-system]
 requires = ["poetry-core"]
