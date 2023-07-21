@@ -9,7 +9,7 @@ packages = [{include = "renovate_changelog_url_test"}]
 
 [tool.poetry.dependencies]
 python = "~3.11"
-SQLAlchemy = "2.0.18"
+SQLAlchemy = "2.0.19"
 click = "8.1.4"
 cython = "0.29.36"
 pydantic = "2.0.2"
