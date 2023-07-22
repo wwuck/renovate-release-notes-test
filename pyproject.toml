@@ -11,7 +11,7 @@ packages = [{include = "renovate_changelog_url_test"}]
 python = "~3.11"
 SQLAlchemy = "2.0.18"
 click = "8.1.4"
-cython = "0.29.36"
+cython = "3.0.0"
 pydantic = "2.0.2"
 google-cloud-secret-manager = "2.16.1"
 lightgbm = "3.3.5"
