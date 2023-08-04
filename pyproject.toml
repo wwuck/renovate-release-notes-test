@@ -18,7 +18,7 @@ lightgbm = "3.3.5"
 gunicorn = "21.0.1"
 grpcio = "1.54.2"
 protobuf = "4.23.3"
-cookiecutter = "2.2.2"
+cookiecutter = "2.3.0"
 
 [build-system]
 requires = ["poetry-core"]
